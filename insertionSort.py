@@ -17,3 +17,8 @@ def insertionSort(arr):
 
     return arr
     
+
+data = [5, 2, 90, 1, 500, -6]
+print("Original array:", data)
+result = insertionSort(data)
+print("Sorted in descending order:", result)
