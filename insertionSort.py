@@ -4,7 +4,6 @@
 # Assisgnment 1 
 # By Shreyas More 
 
-
 def insertionSort(arr):
     for i in range(1, len(arr)):
         key = arr[i]
@@ -16,7 +15,6 @@ def insertionSort(arr):
         arr[j + 1] = key
 
     return arr
-    
 
 data = [5, 2, 90, 1, 500, -6]
 print("Original array:", data)
