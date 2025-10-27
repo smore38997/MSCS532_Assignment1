@@ -3,7 +3,7 @@
 # MSCS-532-B01
 # Assisgnment 1 
 # By Shreyas More 
-
+#Commited by PYcharm
 def insertionSort(arr):
     for i in range(1, len(arr)):
         key = arr[i]
